@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="today">Сьогодні</string>
+    <string name="tommorow">Завтра</string>
+    <string name="d01">Чисте небо</string>
+    <string name="rain">Дощ</string>
+    <string name="clouds">Хмарно</string>
+    <string name="day_temp">Температура удень: </string>
+    <string name="evening_temperature">Температура Увечері: </string>
+    <string name="humidity">Вологість: </string>
+    <string name="max_temperature">Макс. температура: </string>
+    <string name="min_temperature">Мін. температура: </string>
+    <string name="morning_temperature">Температура Вранці: </string>
+    <string name="night_temperature">Температура вночі: </string>
+    <string name="presure">Тиск: </string>
+    <string name="d10">Невеликий дощ</string>
+    <string name="d03">Розірвані хмари</string>
+    <string name="search">Пошук</string>
+    <string name="search_hint">Будь ласка, введіть місце</string>
+    <string name="d02">Кілька хмар</string>
+    <string name="d04">Розірвані хмари</string>
+    <string name="d09">Злива</string>
+    <string name="d11">Гроза</string>
+    <string name="d13">Сніг</string>
+    <string name="d50">Туман</string>
+</resources>

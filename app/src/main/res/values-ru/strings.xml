@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="today">Сегодня</string>
+    <string name="tommorow">Завтра</string>
+    <string name="d01">Чистое небо</string>
+    <string name="rain">Дождь</string>
+    <string name="clouds">Облачно</string>
+    <string name="day_temp">Дневная температура: </string>
+    <string name="evening_temperature">Вечерняя температура: </string>
+    <string name="humidity">Влажность: </string>
+    <string name="max_temperature">Макс. температура: </string>
+    <string name="min_temperature">Мин. температура: </string>
+    <string name="morning_temperature">Утренняя температура: </string>
+    <string name="night_temperature">Ночная температура: </string>
+    <string name="presure">Давление: </string>
+    <string name="d10">Умеренный дождь</string>
+    <string name="d03">Рассеянные облака</string>
+    <string name="search">Поиск</string>
+    <string name="search_hint">Укажите место</string>
+    <string name="d02">Малооблачно</string>
+    <string name="d04">Сломанные облака</string>
+    <string name="d09">Дождь</string>
+    <string name="d11">Гроза</string>
+    <string name="d13">Снег</string>
+    <string name="d50">Туман</string>
+
+</resources>
